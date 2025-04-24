@@ -1,6 +1,4 @@
-Here is the full `README.md` content in Markdown, ready to copy-paste:
 
-```markdown
 # Email Classification and PII Masking API
 
 This project provides an API that processes support emails by masking personally identifiable information (PII), classifying the emails into predefined categories, and then restoring the masked information.
@@ -16,7 +14,7 @@ This project provides an API that processes support emails by masking personally
 - ✅ Docker-ready for Hugging Face Spaces deployment.
 
 ## 📁 Project Structure
-```
+
 email-classifier/
 ├── api.py              # FastAPI app
 ├── models.py           # Classification model and logic
@@ -79,11 +77,4 @@ To deploy on Hugging Face Spaces:
 }
 ```
 
-## 📚 License
-MIT License. See `LICENSE` for more information.
 
-## ✍️ Author
-Mahati – Developed as part of the Email Support Automation assignment.
-```
-
-Let me know if you want to include badges, usage gifs, or contribution guidelines too!
